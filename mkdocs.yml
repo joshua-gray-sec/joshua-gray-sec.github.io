@@ -1,0 +1,36 @@
+site_name: Joshua Gray
+site_description: Cybersecurity, Cloud, and AI Security Engineering
+site_url: https://joshuagray.io
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: black
+    accent: blue
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Projects:
+      - Overview: projects/index.md
+      - Cybersecurity: projects/cybersecurity.md
+      - Cloud: projects/cloud.md
+      - AI Security: projects/ai-security.md
+  - Experience: experience.md
+  - Certifications: certifications.md
+  - About: about.md
+  - Resume: resume.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
