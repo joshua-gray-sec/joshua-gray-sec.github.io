@@ -12,25 +12,25 @@ The objective is to share practical tools, configurations, templates, and docume
 
 Detection rules, logging configurations, and validation methodologies.
 
-[Detection Resources](detections.md)
+[Detection Resources](detections.md){ .md-button }
 
 ### Security Automation
 
 Python and PowerShell tools for security operations, investigation, and automation.
 
-[Automation Resources](automation.md)
+[Automation Resources](automation.md){ .md-button }
 
 ### Architecture Templates
 
 Editable draw.io diagrams and reusable infrastructure architecture templates.
 
-[Architecture Resources](architecture.md)
+[Architecture Resources](architecture.md){ .md-button }
 
 ### Technical Guides
 
 Implementation notes, troubleshooting, security research, and technical walkthroughs.
 
-[Technical Guides](guides.md)
+[Technical Guides](guides.md){ .md-button }
 
 ---
 

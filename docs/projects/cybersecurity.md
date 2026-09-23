@@ -1,4 +1,4 @@
-﻿# Cybersecurity Engineering
+# Cybersecurity Engineering
 
 Hands-on projects exploring enterprise security
 architecture, security operations, detection engineering,
@@ -26,4 +26,4 @@ studies and supporting GitHub repositories.
 
 ## Technical Repositories
 
-[View My GitHub Projects](https://github.com/joshua-gray-sec)
+[View My GitHub Projects](https://github.com/joshua-gray-sec){ .md-button }

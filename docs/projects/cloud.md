@@ -1,4 +1,4 @@
-﻿# Cloud Engineering
+# Cloud Engineering
 
 Projects focused on Microsoft Azure, secure cloud
 infrastructure, hybrid environments, and automation.
@@ -26,4 +26,4 @@ Where practical, deployments will be defined as code,
 tested, documented, and decommissioned when no longer
 required.
 
-[View My GitHub Projects](https://github.com/joshua-gray-sec)
+[View My GitHub Projects](https://github.com/joshua-gray-sec){ .md-button }

@@ -1,4 +1,4 @@
-﻿# AI Engineering & Security
+# AI Engineering & Security
 
 Projects exploring local artificial intelligence,
 security automation, large language models, and
@@ -26,4 +26,4 @@ Where applicable, projects will compare baseline
 behavior against tested security controls and document
 both successful outcomes and limitations.
 
-[View My GitHub Projects](https://github.com/joshua-gray-sec)
+[View My GitHub Projects](https://github.com/joshua-gray-sec){ .md-button }

@@ -14,10 +14,12 @@ My goal is to document engineering decisions, validate technical solutions, deve
 
 ## Connect
 
-For my professional background, employment history, education, and certifications, visit my [LinkedIn profile](https://www.linkedin.com/in/joshua-gray9).
+For my professional background, employment history, education, and certifications, visit my LinkedIn profile.
+
+[LinkedIn profile](https://www.linkedin.com/in/joshua-gray9){ .md-button }
 
 My technical repositories and project demonstrations are available through GitHub and YouTube.
 
-[GitHub](https://github.com/joshua-gray-sec)
+[GitHub](https://github.com/joshua-gray-sec){ .md-button }
 
-[YouTube](https://www.youtube.com/@joshua_gray_io)
+[YouTube](https://www.youtube.com/@joshua_gray_io){ .md-button }

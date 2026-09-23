@@ -10,9 +10,9 @@ This website documents my personal engineering work across cybersecurity, cloud 
 
 My objective is to build practical solutions, validate their effectiveness, document the engineering process, and share useful resources with the technical community.
 
-[Explore Projects](projects/index.md)
+[Explore Projects](projects/index.md){ .md-button }
 
-[Browse Resources](resources/index.md)
+[Browse Resources](resources/index.md){ .md-button }
 
 ---
 
@@ -22,19 +22,19 @@ My objective is to build practical solutions, validate their effectiveness, docu
 
 Detection engineering, enterprise identity security, vulnerability management, incident response, digital forensics, and network security.
 
-[Explore Cybersecurity Projects](projects/cybersecurity.md)
+[Explore Cybersecurity Projects](projects/cybersecurity.md){ .md-button }
 
 ### Cloud Engineering
 
 Microsoft Azure, hybrid infrastructure, identity and access management, infrastructure as code, cloud-native security, and automation.
 
-[Explore Cloud Projects](projects/cloud.md)
+[Explore Cloud Projects](projects/cloud.md){ .md-button }
 
 ### AI Engineering & Security
 
 Local AI, large language models, retrieval-augmented generation, AI-assisted security operations, agents, and adversarial AI security testing.
 
-[Explore AI Projects](projects/ai-security.md)
+[Explore AI Projects](projects/ai-security.md){ .md-button }
 
 ---
 
@@ -51,7 +51,7 @@ Where appropriate, each project includes:
 - Results, limitations, and lessons learned
 - GitHub repositories and video demonstrations
 
-[View Engineering Projects](projects/index.md)
+[View Engineering Projects](projects/index.md){ .md-button }
 
 ---
 
@@ -63,4 +63,4 @@ I aim to extract reusable tools, configurations, templates, and lessons from my 
 
 Resources will include detection rules, automation scripts, architecture templates, technical guides, and research notes.
 
-[Explore Resources](resources/index.md)
+[Explore Resources](resources/index.md){ .md-button }
