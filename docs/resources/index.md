@@ -12,45 +12,37 @@ adapt, and build upon.
 
 ## Resource Categories
 
-<div class="grid cards" markdown>
+### Detection Engineering
 
--   :material-shield-check:{ .lg .middle } **Detection Engineering**
 
-    ---
+Detection rules, logging configurations,
+and validation methodologies.
 
-    Detection rules, logging configurations,
-    and validation methodologies.
+[Detection Resources](detections.md)
 
-    [Detection Resources](detections.md)
+### Security Automation
 
--   :material-code-braces:{ .lg .middle } **Security Automation**
 
-    ---
+Python and PowerShell tools for security
+operations, investigation, and automation.
 
-    Python and PowerShell tools for security
-    operations, investigation, and automation.
+[Automation Resources](automation.md)
 
-    [Automation Resources](automation.md)
+### Architecture Templates
 
--   :material-sitemap:{ .lg .middle } **Architecture Templates**
 
-    ---
+Editable draw.io diagrams and reusable
+infrastructure architecture templates.
 
-    Editable draw.io diagrams and reusable
-    infrastructure architecture templates.
+[Architecture Resources](architecture.md)
 
-    [Architecture Resources](architecture.md)
+### Technical Guides
 
--   :material-book-open-page-variant:{ .lg .middle } **Technical Guides**
 
-    ---
+Implementation notes, troubleshooting,
+security research, and technical walkthroughs.
 
-    Implementation notes, troubleshooting,
-    security research, and technical walkthroughs.
-
-    [Technical Guides](guides.md)
-
-</div>
+[Technical Guides](guides.md)
 
 ---
 
