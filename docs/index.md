@@ -2,65 +2,38 @@
 
 ## Cybersecurity · Cloud · AI
 
-Engineering projects, technical research, and community resources focused on building, securing, and understanding modern systems.
+I'm a cybersecurity professional focused on security engineering, security operations, cloud infrastructure, automation, and emerging AI technologies.
 
-I am a cybersecurity professional with a background in security operations, incident response, vulnerability management, and enterprise infrastructure.
+This website documents my personal engineering work, technical research, and resources developed through practical implementation and experimentation.
 
-This website documents my personal engineering work across cybersecurity, cloud infrastructure, automation, and artificial intelligence.
+My work spans three interconnected disciplines:
+
+**Cybersecurity Engineering:** Detection engineering, enterprise identity security, vulnerability management, incident response, digital forensics, and network security.
+
+**Cloud Engineering:** Microsoft Azure, hybrid infrastructure, identity and access management, infrastructure as code, cloud-native security, and automation.
+
+**AI Engineering & Security:** Local AI, large language models, retrieval-augmented generation, AI-assisted security operations, agents, and adversarial AI security testing.
 
 My objective is to build practical solutions, validate their effectiveness, document the engineering process, and share useful resources with the technical community.
-
-[Explore Projects](projects/index.md){ .md-button }
-
-[Browse Resources](resources/index.md){ .md-button }
-
----
-
-## Engineering Disciplines
-
-### Cybersecurity Engineering
-
-Detection engineering, enterprise identity security, vulnerability management, incident response, digital forensics, and network security.
-
-[Explore Cybersecurity Projects](projects/cybersecurity.md){ .md-button }
-
-### Cloud Engineering
-
-Microsoft Azure, hybrid infrastructure, identity and access management, infrastructure as code, cloud-native security, and automation.
-
-[Explore Cloud Projects](projects/cloud.md){ .md-button }
-
-### AI Engineering & Security
-
-Local AI, large language models, retrieval-augmented generation, AI-assisted security operations, agents, and adversarial AI security testing.
-
-[Explore AI Projects](projects/ai-security.md){ .md-button }
 
 ---
 
 ## Projects
 
-My engineering projects document the full technical process, from architecture and implementation through testing, investigation, remediation, and validation.
+My engineering projects document the technical process, from architecture and implementation through testing, investigation, remediation, and validation.
 
-Where appropriate, each project includes:
+Where appropriate, projects include architecture diagrams, source code, configurations, testing evidence, results, lessons learned, and video demonstrations.
 
-- Editable draw.io architecture diagrams
-- Technical documentation and implementation details
-- Source code, configurations, scripts, and detection rules
-- Testing methodology and supporting evidence
-- Results, limitations, and lessons learned
-- GitHub repositories and video demonstrations
-
-[View Engineering Projects](projects/index.md){ .md-button }
+[Explore Projects](projects/index.md){ .md-button }
 
 ---
 
-## Community Resources
+## Resources
 
 Projects should produce more than a finished lab.
 
 I aim to extract reusable tools, configurations, templates, and lessons from my work and make them available to others who are learning or working in cybersecurity, cloud, and AI engineering.
 
-Resources will include detection rules, automation scripts, architecture templates, technical guides, and research notes.
+Resources include detection rules, automation scripts, architecture templates, technical guides, and research notes as they are developed and prepared for publication.
 
 [Explore Resources](resources/index.md){ .md-button }
