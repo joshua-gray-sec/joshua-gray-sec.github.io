@@ -21,8 +21,8 @@ theme:
     - search.highlight
     - search.suggest
 
-  icon:
-    logo: material/security
+  logo: assets/images/lion-logo.png
+  favicon: assets/images/lion-favicon.png
 
 nav:
   - Home: index.md
