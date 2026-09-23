@@ -1,36 +1,68 @@
 site_name: Joshua Gray
-site_description: Cybersecurity, Cloud, and AI Security Engineering
+site_description: Cybersecurity, Cloud, and AI Engineering
 site_url: https://joshuagray.io
+site_author: Joshua Gray
 
 theme:
   name: material
+
   palette:
     scheme: slate
     primary: black
     accent: blue
+
   features:
     - navigation.tabs
     - navigation.sections
     - navigation.top
+    - navigation.indexes
     - content.code.copy
+    - content.tabs.link
+    - search.highlight
+    - search.suggest
+
+  icon:
+    logo: material/security
 
 nav:
   - Home: index.md
+
   - Projects:
       - Overview: projects/index.md
       - Cybersecurity: projects/cybersecurity.md
       - Cloud: projects/cloud.md
-      - AI Security: projects/ai-security.md
-  - Experience: experience.md
-  - Certifications: certifications.md
+      - AI: projects/ai-security.md
+
+  - Resources:
+      - Overview: resources/index.md
+      - Detection Engineering: resources/detections.md
+      - Security Automation: resources/automation.md
+      - Architecture Templates: resources/architecture.md
+      - Technical Guides: resources/guides.md
+
+  - Contributions: contributions/index.md
+
   - About: about.md
-  - Resume: resume.md
 
 markdown_extensions:
   - admonition
   - attr_list
   - tables
+  - md_in_html
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.highlight:
       anchor_linenums: true
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/joshua-gray-sec
+      name: GitHub
+
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@joshua_gray_io
+      name: YouTube
