@@ -5,6 +5,10 @@ infrastructure, hybrid environments, and automation.
 
 ## Project Roadmap
 
+The following projects are planned or in development.
+Completed projects will receive dedicated technical case
+studies and supporting GitHub repositories.
+
 | Project | Technical Focus |
 |---|---|
 | Secure Azure Landing Zone | Infrastructure as code, networking, RBAC |

@@ -6,6 +6,10 @@ the security of AI-enabled systems.
 
 ## Project Roadmap
 
+The following projects are planned or in development.
+Completed projects will receive dedicated technical case
+studies and supporting GitHub repositories.
+
 | Project | Technical Focus |
 |---|---|
 | Local AI SOC Analyst | LLMs, RAG, security-event analysis |
