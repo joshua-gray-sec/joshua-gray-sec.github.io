@@ -28,6 +28,6 @@ studies and supporting GitHub repositories.
 
 Cybersecurity environments will be designed to reflect realistic enterprise architectures, with an emphasis on defense in depth, least privilege, visibility, and operational resilience.
 
-Projects will follow a structured process of implementation, adversary simulation where applicable, detection and response, remediation, and validation. Each project will document the architecture, security controls, testing methodology, results, and lessons learned.
+Projects will follow a structured process of implementation, adversary simulation where applicable, detection and response, remediation, and validation.
 
 [View My GitHub Projects](https://github.com/joshua-gray-sec){ .md-button }
