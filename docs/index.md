@@ -1,7 +1,13 @@
 ---
 title: Joshua Gray
 description: Cybersecurity, Cloud, and AI Engineering portfolio with planned projects, technical write-ups, and resources.
+social:
+  cards_layout: default/only/image
+  cards_layout_options:
+    background_image: docs/assets/images/social-card.png
+    background_color: transparent
 ---
+
 # Joshua Gray
 
 ## Cybersecurity · Cloud · AI
