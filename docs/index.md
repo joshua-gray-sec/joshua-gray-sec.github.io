@@ -1,3 +1,7 @@
+---
+title: Joshua Gray
+description: Cybersecurity, Cloud, and AI Engineering portfolio with planned projects, technical write-ups, and resources.
+---
 # Joshua Gray
 
 ## Cybersecurity · Cloud · AI
