@@ -2,27 +2,27 @@
 
 ## Cybersecurity · Cloud · AI
 
-I'm a cybersecurity professional focused on security engineering, security operations, cloud infrastructure, automation, and emerging AI technologies.
+I'm a cybersecurity professional with experience in security engineering, security operations, vulnerability management, incident response, security monitoring, and related enterprise security work.
 
-This website documents my personal engineering work, technical research, and resources developed through practical implementation and experimentation.
+This website documents the projects, labs, technical write-ups, and resources I am developing to expand that foundation into deeper hands-on work across cybersecurity, cloud, automation, and AI.
 
-My work spans three interconnected disciplines:
+My planned focus areas include:
 
-**Cybersecurity Engineering:** Detection engineering, enterprise identity security, vulnerability management, incident response, digital forensics, and network security.
+**Cybersecurity Engineering:** Detection engineering, enterprise identity security, vulnerability management, incident response, digital forensics, network security, and adversary simulation.
 
 **Cloud Engineering:** Microsoft Azure, hybrid infrastructure, identity and access management, infrastructure as code, cloud-native security, and automation.
 
 **AI Engineering & Security:** Local AI, large language models, retrieval-augmented generation, AI-assisted security operations, agents, and adversarial AI security testing.
 
-My objective is to build practical solutions, validate their effectiveness, document the engineering process, and share useful resources with the technical community.
+These areas represent the direction of my planned projects and lab work. The goal is to build practical experience through implementation, testing, troubleshooting, validation, and documentation rather than simply listing technologies or concepts.
 
 ---
 
 ## Projects
 
-My engineering projects document the technical process, from architecture and implementation through testing, investigation, remediation, and validation.
+My planned projects and labs are designed to develop practical skills through architecture, implementation, testing, investigation, remediation, and validation.
 
-Where appropriate, projects include architecture diagrams, source code, configurations, testing evidence, results, lessons learned, and video demonstrations.
+As projects are completed, they may include architecture diagrams, source code, configurations, testing evidence, results, lessons learned, and video demonstrations.
 
 [Explore Projects](projects/index.md){ .md-button }
 
@@ -30,10 +30,8 @@ Where appropriate, projects include architecture diagrams, source code, configur
 
 ## Resources
 
-Projects should produce more than a finished lab.
+As projects are completed, I plan to extract useful tools, configurations, templates, documentation, and lessons from that work and make them available to others.
 
-I aim to extract reusable tools, configurations, templates, and lessons from my work and make them available to others who are learning or working in cybersecurity, cloud, and AI engineering.
-
-Resources include detection rules, automation scripts, architecture templates, technical guides, and research notes as they are developed and prepared for publication.
+Resources may include detection rules, automation scripts, architecture templates, technical guides, lab documentation, and supporting materials developed through the projects on this site.
 
 [Explore Resources](resources/index.md){ .md-button }

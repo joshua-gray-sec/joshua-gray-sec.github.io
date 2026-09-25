@@ -1,14 +1,16 @@
 # About
 
-I'm Joshua Gray, a cybersecurity professional focused on security engineering, security operations, cloud infrastructure, automation, and emerging AI technologies.
+I'm Joshua Gray, a cybersecurity professional focused primarily on cybersecurity, cloud, and AI technologies.
 
-My professional background includes endpoint security, vulnerability management, incident response, enterprise identity, and security infrastructure.
+My professional experience includes security architecture and design, security-focused project delivery, threat analysis and vulnerability management, incident response, compliance and governance, security awareness, and security monitoring and reporting.
 
-Outside of my professional responsibilities, I build personal lab environments to explore security engineering, cloud technologies, and artificial intelligence through practical implementation and experimentation.
+My work has included implementing and supporting security controls across endpoint protection, firewalls, intrusion detection, identity and access management, vulnerability management, logging, and security monitoring, along with helping organizations strengthen their overall security posture.
 
-This website serves as a public record of that work.
+This site is where I plan to continue building practical skills through hands-on projects and lab environments across cybersecurity, cloud, automation, and AI.
 
-My goal is to document engineering decisions, validate technical solutions, develop reusable resources, and contribute useful knowledge to the technical community.
+The goal is not simply to document what I know, but to apply it. I use these projects to design systems, build environments, test security controls, troubleshoot problems, validate results, and develop deeper technical capability in areas I want to continue growing into.
+
+Over time, this site will serve as a practical portfolio of that work, including project documentation, architecture, technical write-ups, reusable resources, and lessons learned through implementation.
 
 ---
 
